@@ -5,7 +5,7 @@
  
 <img src="https://yt3.ggpht.com/UW1l6kVno13e5hcsFu9h7hDCuDrJep_2vvQwa-7fgTmfcP1J85JfbUvpGH4Jvn3qSmRh5C8WhQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="banner"/>
 <h1 align="center">Hi 👋, I'm Nayan Kumar</h1>
-<h1 align="center">Aspiring MERN Stack Developer</h1>
+<h1 align="center">🧑🏻‍💻 Aspiring MERN Stack Developer</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayankumar21" alt="nayankumar21" /></a> </p>
 
