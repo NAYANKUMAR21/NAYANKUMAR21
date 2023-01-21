@@ -65,13 +65,13 @@ Technical Skills
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NAYANKUMAR21&theme=solarized_dark&utcOffset=8">
 	
 </p>
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 
-<a href=#><img src="contributions.svg"></a>
+
+
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+  <img src="https://profile-counter.glitch.me/NAYANKUMAR21/count.svg" />
 </p>
 
 
