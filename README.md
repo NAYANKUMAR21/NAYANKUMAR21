@@ -65,6 +65,14 @@ Technical Skills
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NAYANKUMAR21&theme=solarized_dark&utcOffset=8">
 	
 </p>
+![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
 
 
 <img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
