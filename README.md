@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Nayan Kumar</h1>
 <h1 align="center">🧑🏻‍💻 Aspiring MERN Stack Developer</h1>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayankumar21" alt="nayankumar21" /></a> </p>
+
 
 - 💬 Ask me about **react,javascript,html,CSS,nodeJS,expressS**
 
@@ -32,7 +32,7 @@ Aspiring 🧑🏻‍💻 MERN STACK developer with specialisation in JavaScript,
 </p>
 
 
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayankumar21" alt="nayankumar21" /></a> </p>
 <h2 align="left">
 Technical Skills
 </h2>
