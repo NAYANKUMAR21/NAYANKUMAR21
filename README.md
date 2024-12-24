@@ -5,11 +5,11 @@
  
 <img src="https://yt3.ggpht.com/UW1l6kVno13e5hcsFu9h7hDCuDrJep_2vvQwa-7fgTmfcP1J85JfbUvpGH4Jvn3qSmRh5C8WhQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="banner"/>
 <h1 align="center">Hi 👋, I'm Nayan Kumar</h1>
-<h1 align="center">🧑🏻‍💻 Aspiring MERN Stack Developer</h1>
+<h1 align="center">🧑🏻‍💻 A Software developer </h1>
 
 
 
-- 💬 Ask me about **react,javascript,html,CSS,nodeJS,expressS**
+- 💬 Ask me about **react,nextjs, rust , cpp and python**
 
 - 📫 How to reach me **naayaankumar@gmail.com**
 
