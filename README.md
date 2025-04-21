@@ -30,10 +30,6 @@ With Over 2 years of experience in coding and **many mini and major projects** u
 ---
 
 
-
-> ⚡ Fun fact : **When I’m not writing code, I'm probably reverse-engineering how a browser works just for fun 😄 I once rebuilt a website's layout pixel-perfect using only DevTools and curiosity! Also... I genuinely enjoy fixing bugs. To me, it’s like solving a puzzle 🧩—except the puzzle is angry and yelling in errors , erros and bugs 😅**
-
-
 ## 🔥 Tech Stack
 
 <div style="display: grid; gap: 20px; align-items: center;">
