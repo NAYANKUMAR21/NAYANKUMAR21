@@ -24,7 +24,7 @@ With Over 2 years of experience in coding and **many mini and major projects** u
 ---
 
 ### 📫 Connect With Me  
-- 📧 Email: [naayaankumar@gmail.com](mailto:naayaankumar@gmail.com)  
+- 📧 Email: [naayaankumar@gmail.com](mailto:nayanph1@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nayan-kumar-/)
 
 ---
