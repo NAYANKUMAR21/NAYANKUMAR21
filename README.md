@@ -1,5 +1,14 @@
 
- <img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,11,20&height=180&section=header&text=👨‍💻%20Nayan%20Kumar%20👨‍💻&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+ <pre>
+  
+  
+███    ██     █████     ██    ██     █████     ███    ██ 
+████   ██    ██   ██     ██  ██     ██   ██    ████   ██ 
+██ ██  ██    ███████      ████      ███████    ██ ██  ██ 
+██  ██ ██    ██   ██       ██       ██   ██    ██  ██ ██ 
+██   ████    ██   ██       ██       ██   ██    ██   ████
+
+</pre>
  
 <h1 align="center">Hey there 👋, I'm Nayan Kumar</h1>
 <h2 align="center">🧑🏻‍💻 Software Developer from India | Building the scalable applications </h2>
