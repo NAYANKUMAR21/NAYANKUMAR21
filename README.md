@@ -11,13 +11,13 @@
 
 
  
-<h1 align="center">Hey there 👋, I'm Nayan Kumar</h1>
+
 <h2 align="center">🧑🏻‍💻 Software Developer from India | Building the scalable applications </h2>
 
 ---
 
 ### 🧠 About Me  
-I'm a **Software Developer** with hands-on experience in building scalable web applications and writing clean, efficient code. I specialize in **C++**, **Node**, **Nest**, **JavaScript**, **React**, **Next.js** and **Go** with a solid foundation in **Data Structures & Algorithms**, **Object-Oriented Design**, and **REST APIs**.  
+I am a software developer passionate about crafting dynamic and user-centric web apps. With experience in modern technologies, I thrive on building scalable and intuitive web solutions. I embrace challenges as opportunities to learn and grow as a developer. I specialize in **C++**, **Node**, **Nest**, **JavaScript**, **React**, **Next.js** and **Go** with a solid foundation in **Data Structures & Algorithms**, **Object-Oriented Design**, and **REST APIs**.  
 
 With Over 2 years of experience in coding and **many mini and major projects** under my belt, I'm constantly learning, improving, and pushing the boundaries of what I can create.
 
