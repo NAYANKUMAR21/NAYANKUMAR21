@@ -1,102 +1,65 @@
-<pre>
+# Nayan Kumar
 
-███╗   ██╗     █████╗     ██╗   ██╗     █████╗     ███╗   ██╗
-████╗  ██║    ██╔══██╗    ╚██╗ ██╔╝    ██╔══██╗    ████╗  ██║
-██╔██╗ ██║    ███████║     ╚████╔╝     ███████║    ██╔██╗ ██║
-██║╚██╗██║    ██╔══██║      ╚██╔╝      ██╔══██║    ██║╚██╗██║
-██║ ╚████║    ██║  ██║       ██║       ██║  ██║    ██║ ╚████║
-╚═╝  ╚═══╝    ╚═╝  ╚═╝       ╚═╝       ╚═╝  ╚═╝    ╚═╝  ╚═══╝
-                                                             
-</pre>
-
-
- 
-
-<h2 align="center">🧑🏻‍💻 Software Developer from India | Building the scalable applications </h2>
+Software developer based in India. I build distributed and scalable systems — things that hold up under load, stay maintainable over time, and solve real problems cleanly.
 
 ---
 
-### 🧠 About Me  
-I am a software developer passionate about crafting dynamic and user-centric web apps. With experience in modern technologies, I thrive on building scalable and intuitive web solutions. I embrace challenges as opportunities to learn and grow as a developer. I specialize in **C++**, **Node**, **Nest**, **JavaScript**, **React**, **Next.js** and **Go** with a solid foundation in **Data Structures & Algorithms**, **Object-Oriented Design**, and **REST APIs**.  
+## About
 
-With Over 2 years of experience in coding and **many mini and major projects** under my belt, I'm constantly learning, improving, and pushing the boundaries of what I can create.
+I write code across the full stack, with a particular focus on backend systems and infrastructure. I think carefully about trade-offs: between simplicity and power, between moving fast and staying correct.
 
----
-
-### 💼 Highlights  
-- 🧠 **Over 2 years** of hands-on coding experience  
-- 💬 Fluent in **C++**, **Rust**, **React**, **Python**, **Go**, **Nest** and **Next.js**  
-- 🔍 Strong analytical thinking and problem-solving skills  
-- 🧩 Capable of communicating complex ideas in a clear and concise manner
-- 🔭 I’m currently working on **Bulding terminal on browser**
-- I’m currently learning **podman and Rust**  
+I communicate technical ideas clearly, work well in ambiguous problem spaces, and care about the craft of writing good software — not just working software.
 
 ---
 
-### 📫 Connect With Me  
-- 📧 Email: [naayaankumar@gmail.com](mailto:nayanph1@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/nayan-kumar-/)
+## Skills
+
+**Languages**  
+JavaScript (ES6+), TypeScript, Python, C++, Go, Rust
+
+**Frontend**  
+React 19, VueJS, Next.js 15+, AngularJS, Tailwind CSS, ShadCN
+
+**Backend**  
+Node.js, FastAPI, Socket.IO, WebRTC, OAuth, NGINX, gRPC, REST APIs, Microservices, Event-driven architecture, Sentry
+
+**Messaging & Queues**  
+Kafka, RabbitMQ, Redis (pub/sub + caching), Celery
+
+**Databases**  
+PostgreSQL, MySQL, MongoDB, Redis, DocumentDB, DynamoDB.
+
+**Testing**  
+Jest, Cypress, Mocha, unit testing, integration testing
+
+**Cloud & DevOps**  
+AWS, GCP, Docker, Kubernetes (K8s), GitHub CI/CD, GitLab, NGINX, S3, Firebase Auth
+
+**System Design**  
+Distributed systems, scalability, low-latency APIs, RBAC, system design, high-availability services
+
+**Practices**  
+Agile, Scrum, Linux, Bash/shell scripting, semantic versioning, component-driven development
+
+**Currently learning**  
+Rust (systems programming depth)
+
+**Current project**  
+Building a terminal that runs in the browser
 
 ---
 
+## What I Value
 
-## 🔥 Tech Stack
-
-<div style="display: grid; gap: 20px; align-items: center;">
-
-#### Frontend
-<div style="display: flex; gap: 20px; align-items: center;">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-</div>
-
-#### Backend
-<div style="display: flex; gap: 20px; align-items: center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-</div>
-
-#### Databases
-<div style="display: flex; gap: 20px; align-items: center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL"/>
-</div>
-
-### 🧪 Testing Tools
-
-
-<div style="display: flex; gap: 20px; align-items: center;">
-  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40" title="Jest"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cypress.svg" width="40" title="Cypress"/>
-  <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" width="40" title="Mocha"/>
-</div>
-
-</div>
-
---- 
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayankumar21&theme=onedark" alt="GitHub Trophies"/></a>
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NAYANKUMAR21&theme=solarized_dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NAYANKUMAR21&theme=solarized_dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NAYANKUMAR21&theme=solarized_dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NAYANKUMAR21&theme=solarized_dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NAYANKUMAR21&theme=solarized_dark&utcOffset=8">
-</p>
+- Systems that scale without drama  
+- Code that a stranger can read six months later  
+- Honest engineering trade-offs over cargo-culted best practices  
+- Finishing things
 
 ---
 
-<p align="center">
-  <strong>Visitor Count</strong><br>
-  <img src="https://profile-counter.glitch.me/NAYANKUMAR21/count.svg" />
-</p>
+## Contact
 
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling" alt="footer"/>
+naayaankumar@gmail.com  
+[linkedin.com/in/nayan-kumar-](https://www.linkedin.com/in/nayan-kumar-/)  
+[github.com/NAYANKUMAR21](https://github.com/NAYANKUMAR21)
