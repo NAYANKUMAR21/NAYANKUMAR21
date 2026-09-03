@@ -1,6 +1,6 @@
-# Nayan Kumar
+# Nayan Kumar | AI & Backend Engineer, Bengaluru.
 
-Software developer based in India. I build distributed and scalable systems — things that hold up under load, stay maintainable over time, and solve real problems cleanly.
+I build the systems that agents run on LLM applications, multi-agent orchestration, and the event-driven microservice platforms underneath them. Most recently I led the ground-up build of an agentic code-analysis platform that read 175 legacy codebases across 2,500+ services and wrote their migration path to Go and Java.
 
 ---
 
@@ -15,7 +15,7 @@ I communicate technical ideas clearly, work well in ambiguous problem spaces, an
 ## Skills
 
 **Languages**  
-JavaScript (ES6+), TypeScript, Python, C++, Go, Rust
+JavaScript (ES6+), TypeScript, Python, C++, Go, Rust, SQL
 
 **Frontend**  
 React 19, VueJS, Next.js 15+, AngularJS, Tailwind CSS, ShadCN
@@ -33,7 +33,7 @@ PostgreSQL, MySQL, MongoDB, Redis, DocumentDB, DynamoDB.
 Jest, Cypress, Mocha, unit testing, integration testing
 
 **Cloud & DevOps**  
-AWS, GCP, Docker, Kubernetes (K8s), GitHub CI/CD, GitLab, NGINX, S3, Firebase Auth
+AWS (EC2, EKS, Lambda, S3, SQS, SNS, RDS, DocumentDB, CloudFormation),, GCP, Docker, Kubernetes (K8s), GitHub CI/CD, GitLab, NGINX, S3, Firebase Auth
 
 **System Design**  
 Distributed systems, scalability, low-latency APIs, RBAC, system design, high-availability services
