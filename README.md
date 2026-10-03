@@ -1,4 +1,4 @@
-# Nayan Kumar | AI & Backend Engineer, Bengaluru.
+# Nayan Kumar | AI & Backend Engineer.
 
 I build the systems that agents run on LLM applications, multi-agent orchestration, and the event-driven microservice platforms underneath them. Most recently I led the ground-up build of an agentic code-analysis platform that read 175 legacy codebases across 2,500+ services and wrote their migration path to Go and Java.
 
