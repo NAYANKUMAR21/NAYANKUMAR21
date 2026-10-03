@@ -60,7 +60,7 @@ Building a terminal that runs in the browser
 
 ## Contact
 
-naayaankumar@gmail.com  
+ - naayaankumar@gmail.com  
  - [linkedin.com/in/nayan-kumar-](https://www.linkedin.com/in/nayan-kumar-/)
  - [github.com/NAYANKUMAR21](https://github.com/NAYANKUMAR21)
  - [Portfolio](https://nayankumar.me)
